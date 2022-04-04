@@ -1,0 +1,15 @@
+.home {
+  display: flex;
+
+  align-items: left;
+  flex-direction: column;
+  background-color: lightpink;
+}
+
+.home img {
+  width: 75px;
+  height: 75px;
+  object-fit: cover;
+  border-radius: 50%;
+  
+}
